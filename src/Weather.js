@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather?';
 const ICON_URL = 'http://openweathermap.org/img/wn';
-const API_KEY = '834b591a34cff66ad4c17c73c109b7b4';
+const API_KEY = '';
 
 
 
